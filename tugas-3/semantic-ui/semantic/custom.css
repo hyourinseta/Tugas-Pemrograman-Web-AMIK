@@ -1,0 +1,37 @@
+#sidebar {
+	padding: 20px;
+	color: #fff;
+}
+
+#sidebar .header {
+	color: #fff;
+	text-align: right;
+}
+
+#sidebar a {
+	color: #ccc;
+	line-height: 30px;
+}
+
+#info {
+	text-align: right;
+}
+
+#content {
+	padding: 20px;
+	margin-left: 260px;
+}
+
+#content .ui.card {
+	width : 100% !important;
+}
+
+#skills {
+	padding: 0px 20px;
+	margin-left: 260px;
+	margin-top: 0px;
+}
+
+#skills .ui.card {
+	width : 100% !important;
+}
