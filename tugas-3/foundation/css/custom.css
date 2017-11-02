@@ -1,0 +1,29 @@
+.off-canvas.position-left {
+	background: #000f29;
+}
+
+#info {
+	list-style-type: none;
+}
+
+#name {
+	color: #fff;
+	letter-spacing: -2px;
+	font-size: 28px;
+}
+
+#info li {
+	font-size: 14px;
+}
+
+#info li i {
+	color: #ccc;
+}
+
+#info li a {
+	color: #ccc;
+}
+
+#skills {
+	padding-left: 20px;
+}
